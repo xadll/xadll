@@ -1,5 +1,5 @@
 - 👋 Hi, I’m XadL.
-- 👀 I’m interested in application and game design and development.
+- 👀 I’m interested in design and development of applications and games.
 - 🌱 I’m currently learning "Apache Netbeans Platform" and "LibGDX".
 - 📫 How to reach me
   - Discord: XadL#0930
