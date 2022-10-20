@@ -1,5 +1,5 @@
 
-### Hi 👋 Hi, I’m XadL.
+### Hi 👋, I’m XadL.
 
 - 👀 I’m interested in design and development of applications and games.
 - 🌱 I’m currently learning "Apache Netbeans Platform" and "LibGDX".
@@ -10,6 +10,44 @@
 
 
 <!---
+----
+
+<a target="_blank" href="mail-to:jirisx@gmail.com"><img src="https://img.shields.io/badge/-495f7e?style=flat&logo=gmail&logoColor=white"></img></a>	
+
+<a href="https://twitter.com/moertel">
+  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://www.instagram.com/moer.tel/">
+  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://linkedin.com/in/stefaniegrunwald">
+  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://moertel.tumblr.com/">
+  <img align="left" alt="Stefanie's Tumblr" width="20px" src="https://simpleicons.now.sh/tumblr/495f7e" />
+</a>
+<a href="https://behance.net/moertel">
+  <img align="left" alt="Stefanie's Behance" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website : [https://xadl.eu](https://xadl.eu) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+
+
+
+
+languages: java, 
+
+<h2> Github Stats </h2> 
+
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xadll&layout=compact&theme=tokyonight" /></a>
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=xadll)
+
+tools i using: java, adminer, terminator, cloudflare, firefox, thunderbird, apachenetbeanside, gimp, gnu/linux, debian, gnu/bash, openwrt, letsencrypt, 
+curently learning: docker, git, GitHub, netbeans platform, nginx, 
+want to learn at some time: traefik, libgdx, python, inkscape, D3.js, blender, pytorch, 
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 @TODO: firefox, thunderbird, docker, cloudflare, traefik, terminator, n8n?, libgdx, java, 
 trackmania forever, bash, python, w3js, w3css, inkscape, blender, neural networks, Adminer, linux tux, alpine linux, Apache Ant, 
