@@ -1,8 +1,9 @@
 
 # Jiří Svoboda [@xadl](https://xadl.eu)
 
+&nbsp;<a target="_blank" href="mailto:jirisx@gmail.com"><img height="20" alt="e-mail" title="e-mail" src="https://img.shields.io/badge/-jirisx-c14438?style=social&logo=Gmail&logoColor=red"></img></a>
 &nbsp;<a target="_blank" href="https://youtube.com/channel/UCfXhT4GMAuborEydJB4nWGg/videos"><img height="20" alt="Youtube views count" title="Youtube views count" src="https://img.shields.io/youtube/channel/views/UCfXhT4GMAuborEydJB4nWGg?style=social"></img></a>
-&nbsp;gmail
+&nbsp;<a target="_blank" href="https://youtube.com/channel/UCfXhT4GMAuborEydJB4nWGg/videos"><img height="20" alt="Twitch status" title="Twitch status" src="https://img.shields.io/twitch/status/xadl?style=social"></img></a>
 &nbsp;discord
 &nbsp;web
 &nbsp;<a target="_blank" href="https://github.com/xadll"><img height="20" alt="Profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=xadll&color=red&style=flat"></img></a>
@@ -39,6 +40,9 @@
 <a target="_blank" href="#"><img height="25" alt="LibreOffice logo" title="LibreOffice" src="https://img.shields.io/badge/LibreOffice-282C34?&logo=LibreOffice"></img></a>
 <a target="_blank" href="#"><img height="25" alt="OpenJDK logo" title="OpenJDK" src="https://img.shields.io/badge/OpenJDK-282C34?&logo=openjdk"></img></a>
 
+### Learning
+
+### I want to learn in some time
 
 <!---
 
