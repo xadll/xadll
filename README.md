@@ -13,7 +13,7 @@
 
 𝗛𝗶 👋, 𝗜’𝗺 𝗫𝗮𝗱𝗟.
 
-- I’m interested in server administration + design and development of applications and games.
+I’m interested in server administration + design and development of applications and games.
 
 ### :carousel_horse: Languages:
 
