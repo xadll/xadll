@@ -15,7 +15,7 @@
 
 I’m interested in server administration + design and development of applications and games.
 
-### :carousel_horse: Languages:
+## :carousel_horse: Languages:
 
 <a target="_blank" href="#"><img height="25" alt="Java logo" title="Java SE" src="https://img.shields.io/badge/Java SE-282C34?style=flat&logo=data:image/png;base64,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"></img></a>
 <a target="_blank" href="#"><img height="25" alt="SQL" title="SQL" src="https://img.shields.io/badge/SQL-282C34?"></img></a>
@@ -31,7 +31,7 @@ I’m interested in server administration + design and development of applicatio
   <a target="_blank" href="#"><img height="25" alt="JavaScript logo" title="JavaScript" src="https://img.shields.io/badge/JavaScript-282C34?&logo=javascript"></img></a>
 </details>
 
-### :hammer: Tools:
+## :hammer: Tools:
 
 <a target="_blank" href="#"><img height="25" alt="Apache NetBeans IDE logo" title="Apache NetBeans IDE" src="https://img.shields.io/badge/Apache NetBeans IDE-282C34?&logo=apachenetbeanside"></img></a>
 <a target="_blank" href="#"><img height="25" alt="NetBeans Platform" title="NetBeans Platform" src="https://img.shields.io/badge/NetBeans Platform-282C34?&logo=apachenetbeanside"></img></a>
@@ -55,7 +55,7 @@ I’m interested in server administration + design and development of applicatio
 <a target="_blank" href="#"><img height="25" alt="Thunderbird logo" title="Thunderbird" src="https://img.shields.io/badge/Thunderbird-282C34?&logo=thunderbird"></img></a>
 <a target="_blank" href="#"><img height="25" alt="LibreOffice logo" title="LibreOffice" src="https://img.shields.io/badge/LibreOffice-282C34?&logo=LibreOffice"></img></a>
 
-### 🌱 Curently learning
+## 🌱 Curently learning
 
 <a target="_blank" href="#"><img height="25" alt="Docker logo" title="Docker" src="https://img.shields.io/badge/Docker-282C34?&logo=docker"></img></a>
 <a target="_blank" href="#"><img height="25" alt="git logo" title="git" src="https://img.shields.io/badge/git-282C34?&logo=git"></img></a>
@@ -63,7 +63,7 @@ I’m interested in server administration + design and development of applicatio
 <a target="_blank" href="#"><img height="25" alt="NetBeans Platform" title="NetBeans Platform" src="https://img.shields.io/badge/NetBeans Platform-282C34?&logo=apachenetbeanside"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Nginx logo" title="Nginx" src="https://img.shields.io/badge/Nginx-282C34?&logo=nginx"></img></a>
 
-### 👀 Want to learn at some time
+## 👀 Want to learn at some time
 
 <a target="_blank" href="#"><img height="25" alt="Traefik Proxy logo" title="Traefik Proxy" src="https://img.shields.io/badge/Traefik-282C34?&logo=traefikproxy"></img></a>
 <a target="_blank" href="#"><img height="25" alt="D3.js logo" title="D3.js" src="https://img.shields.io/badge/D3.js-282C34?&logo=d3dotjs"></img></a>
