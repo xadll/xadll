@@ -1,5 +1,5 @@
 
-# Jiří Svoboda [@xadl](https://xadl.eu)
+# Jiří <sup>['xadl'](https://xadl.eu)</sup> Svoboda
 
 &nbsp;<a target="_blank" href="mailto:jirisx@gmail.com"><img height="20" alt="E-Mail" title="E-Mail" src="https://img.shields.io/badge/-jirisx-c14438?style=social&logo=Gmail"></img></a>
 &nbsp;<a target="_blank" href="https://discord.com/invite/77etakAmYj"><img height="20" alt="Discord chat status" title="Discord chat status" src="https://img.shields.io/discord/925098408262397952?label=&logo=discord&style=social"></img></a>
