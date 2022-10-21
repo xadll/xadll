@@ -6,7 +6,10 @@
 &nbsp;<a target="_blank" href="https://youtube.com/channel/UCfXhT4GMAuborEydJB4nWGg/videos"><img height="20" alt="Twitch status" title="Twitch status" src="https://img.shields.io/twitch/status/xadl?style=social"></img></a>
 &nbsp;discord
 &nbsp;web
-&nbsp;<a target="_blank" href="https://github.com/xadll"><img height="20" alt="Profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=xadll&color=red&style=flat"></img></a>
+&nbsp;<a target="_blank" href="https://xadl.eu"><img height="20" alt="Profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=xadll&color=red&style=flat"></img></a>
+
+&nbsp;<a target="_blank" href="https://youtube.com/channel/UCfXhT4GMAuborEydJB4nWGg/videos"><img height="20" alt="Twitch status" title="Twitch status" src="https://img.shields.io/mozilla-observatory/grade/xadl.eu?publish"></img></a>
+
 
 𝗛𝗶 👋, 𝗜’𝗺 𝗫𝗮𝗱𝗟.
 
@@ -22,11 +25,13 @@
 <a target="_blank" href="#"><img height="25" alt="MySQL logo" title="SQL" src="https://img.shields.io/badge/SQL-282C34?&logo=MySQL"></img></a>
 <details>
   <summary>Other languages less experienced in:</summary>
+  <a target="_blank" href="#"><img height="25" alt="GNU/Bash logo" title="GNU/Bash" src="https://img.shields.io/badge/GNU/Bash-282C34?&logo=gnubash"></img></a>
   <a target="_blank" href="#"><img height="25" alt="PHP logo" title="PHP" src="https://img.shields.io/badge/PHP-282C34?&logo=php"></img></a>
   <a target="_blank" href="#"><img height="25" alt="C logo" title="C" src="https://img.shields.io/badge/C-282C34?&logo=c"></img></a>
   <a target="_blank" href="#"><img height="25" alt="C++ logo" title="C++" src="https://img.shields.io/badge/C++-282C34?&logo=cplusplus"></img></a>
   <a target="_blank" href="#"><img height="25" alt="Kotlin logo" title="Kotlin" src="https://img.shields.io/badge/Kotlin-282C34?&logo=kotlin"></img></a>
   <a target="_blank" href="#"><img height="25" alt="Python logo" title="Python" src="https://img.shields.io/badge/Python-282C34?&logo=python"></img></a>
+  <a target="_blank" href="#"><img height="25" alt="JavaScript logo" title="JavaScript" src="https://img.shields.io/badge/JavaScript-282C34?&logo=javascript"></img></a>
 </details>
 
 ### DB:
