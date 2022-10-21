@@ -3,19 +3,17 @@
 
 &nbsp;<a target="_blank" href="mailto:jirisx@gmail.com"><img height="20" alt="E-Mail" title="E-Mail" src="https://img.shields.io/badge/-jirisx-c14438?style=social&logo=Gmail"></img></a>
 &nbsp;<a target="_blank" href="https://discord.com/invite/77etakAmYj"><img height="20" alt="Discord chat status" title="Discord chat status" src="https://img.shields.io/discord/925098408262397952?label=&logo=discord&style=social"></img></a>
-&nbsp;<a target="_blank" href="https://youtube.com/channel/UCfXhT4GMAuborEydJB4nWGg/videos"><img height="20" alt="Youtube profile" title="Youtube profile" src="https://img.shields.io/badge/-XadL-c14438?style=social&logo=youtube"></img></a>
+&nbsp;<a target="_blank" href="https://keybase.io/xadl"><img height="20" alt="KeyBase" title="KeyBase" src="https://img.shields.io/badge/-xadl-c14438?style=social&logo=keybase"></img></a>
+&nbsp;<a target="_blank" href="https://youtube.com/channel/UCfXhT4GMAuborEydJB4nWGg/videos"><img height="20" alt="Youtube profile" title="Youtube profile" src="https://img.shields.io/badge/-xadl-c14438?style=social&logo=youtube"></img></a>
 &nbsp;<a target="_blank" href="https://www.twitch.tv/xadl"><img height="20" alt="Twitch status" title="Twitch status" src="https://img.shields.io/twitch/status/xadl?label=&style=social"></img></a>
+&nbsp;<a target="_blank" href="https://open.spotify.com/user/xadl"><img height="20" alt="Spotify profile" title="Spotify profile" src="https://img.shields.io/badge/-xadl-c14438?style=social&logo=spotify"></img></a>
 &nbsp;<a target="_blank" href="https://xadl.eu"><img height="20" alt="Web status" title="Web status" src="https://img.shields.io/mozilla-observatory/grade/xadl.eu?label=xadl.eu&publish"></img></a>
 &nbsp;<a target="_blank" href="https://stredacup.eu"><img height="20" alt="Web status" title="Web status" src="https://img.shields.io/mozilla-observatory/grade/stredacup.eu?label=stredacup.eu&publish"></img></a>
 &nbsp;<a target="_blank" href="https://github.com/xadll"><img height="20" alt="Profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=xadll&color=red&style=flat"></img></a>
 
 𝗛𝗶 👋, 𝗜’𝗺 𝗫𝗮𝗱𝗟.
 
-- 👀 I’m interested in design and development of applications and games.
-- 🌱 I’m currently learning "Apache Netbeans Platform" and "LibGDX".
-- 📫 How to reach me
-  - Discord: XadL#0930
-  - https://keybase.io/xadl
+- I’m interested in server administration + design and development of applications and games.
 
 ### :carousel_horse: Languages:
 
