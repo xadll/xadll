@@ -28,13 +28,6 @@
   <a target="_blank" href="https://github.com/xadll/xadll#languages"><img height="25" alt="Python logo" title="Python" src="https://img.shields.io/badge/Python-282C34?&logo=python"></img></a>
 </details>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-languages: java, sql (not confident enough: python, c, c++, c#)
-
 ### DB:
 
 <a target="_blank" href="https://github.com/xadll/xadll#db"><img height="25" alt="MariaDB logo" title="MariaDB" src="https://img.shields.io/badge/MariaDB-282C34?&logo=mariadb"></img></a>
