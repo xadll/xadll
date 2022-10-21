@@ -46,6 +46,8 @@
 <a target="_blank" href="#"><img height="25" alt="MariaDB logo" title="MariaDB" src="https://img.shields.io/badge/MariaDB-282C34?&logo=mariadb"></img></a>
 <br><a target="_blank" href="#"><img height="25" alt="CloudFlare logo" title="CloudFlare" src="https://img.shields.io/badge/CloudFlare-282C34?&logo=cloudflare"></img></a>
 <a target="_blank" href="#"><img height="25" alt="LetsEncrypt logo" title="LetsEncrypt" src="https://img.shields.io/badge/LetsEncrypt-282C34?&logo=letsencrypt"></img></a>
+<a target="_blank" href="#"><img height="25" alt="HTML5 logo" title="HTML5" src="https://img.shields.io/badge/HTML5-282C34?&logo=html5"></img></a>
+<a target="_blank" href="#"><img height="25" alt="CSS3 logo" title="CSS3" src="https://img.shields.io/badge/CSS3-282C34?&logo=css3"></img></a>
 <br><a target="_blank" href="#"><img height="25" alt="Joplin logo" title="Joplin" src="https://img.shields.io/badge/Joplin-282C34?&logo=joplin"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Markdown logo" title="Markdown" src="https://img.shields.io/badge/Markdown-282C34?&logo=markdown"></img></a>
 <a target="_blank" href="#"><img height="25" alt="GIMP logo" title="GIMP" src="https://img.shields.io/badge/GIMP-282C34?&logo=gimp"></img></a>
