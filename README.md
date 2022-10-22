@@ -61,10 +61,10 @@ I’m interested in server administration + design and development of applicatio
 <a target="_blank" href="#"><img height="25" alt="git logo" title="git" src="https://img.shields.io/badge/git-282C34?&logo=git"></img></a>
 <a target="_blank" href="#"><img height="25" alt="GitHub logo" title="GitHub" src="https://img.shields.io/badge/GitHub-282C34?&logo=github"></img></a>
 <a target="_blank" href="#"><img height="25" alt="NetBeans Platform" title="NetBeans Platform" src="https://img.shields.io/badge/NetBeans Platform-282C34?&logo=apachenetbeanside"></img></a>
-<a target="_blank" href="#"><img height="25" alt="Nginx logo" title="Nginx" src="https://img.shields.io/badge/Nginx-282C34?&logo=nginx"></img></a>
 
 ## 👀 Want to learn at some time
 
+<a target="_blank" href="#"><img height="25" alt="Nginx logo" title="Nginx" src="https://img.shields.io/badge/Nginx-282C34?&logo=nginx"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Traefik Proxy logo" title="Traefik Proxy" src="https://img.shields.io/badge/Traefik-282C34?&logo=traefikproxy"></img></a>
 <a target="_blank" href="#"><img height="25" alt="D3.js logo" title="D3.js" src="https://img.shields.io/badge/D3.js-282C34?&logo=d3dotjs"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Python logo" title="Python" src="https://img.shields.io/badge/Python-282C34?&logo=python"></img></a>
