@@ -42,6 +42,7 @@ I’m interested in server administration + design and development of applicatio
 <br><a target="_blank" href="#"><img height="25" alt="GNU/Linux logo" title="GNU/Linux" src="https://img.shields.io/badge/GNU/Linux-282C34?&logo=linux"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Debian logo" title="Debian" src="https://img.shields.io/badge/Debian-282C34?&logo=debian"></img></a>
 <a target="_blank" href="#"><img height="25" alt="OpenWrt logo" title="OpenWrt" src="https://img.shields.io/badge/OpenWrt-282C34?&logo=openwrt"></img></a>
+<a target="_blank" href="#"><img height="25" alt="OpenSSH logo" title="OpenSSH" src="https://img.shields.io/badge/OpenSSH-282C34?&logo=openssh"></img></a>
 <br><a target="_blank" href="#"><img height="25" alt="Adminer logo" title="Adminer" src="https://img.shields.io/badge/Adminer-282C34?&logo=adminer"></img></a>
 <a target="_blank" href="#"><img height="25" alt="PostgreSQL logo" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-282C34?&logo=postgresql"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Oracle logo" title="Oracle" src="https://img.shields.io/badge/Oracle-282C34?&logo=Oracle"></img></a>
