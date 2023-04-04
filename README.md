@@ -62,6 +62,7 @@ I’m interested in server administration + design and development of applicatio
 
 <a target="_blank" href="#"><img height="25" alt="Apache NetBeans Platform" title="Apache NetBeans Platform" src="https://img.shields.io/badge/Apache NetBeans Platform-282C34?&logo=apachenetbeanside"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Docker logo" title="Docker" src="https://img.shields.io/badge/Docker-282C34?&logo=docker"></img></a>
+<a target="_blank" href="#"><img height="25" alt="Traefik Proxy logo" title="Traefik Proxy" src="https://img.shields.io/badge/Traefik-282C34?&logo=traefikproxy"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Ansible logo" title="Ansible" src="https://img.shields.io/badge/Ansible-282C34?&logo=ansible"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Cloud-init logo" title="Cloud-init" src="https://img.shields.io/badge/Cloud&minus;init-282C34?&logo=cloudinit"></img></a>
 <a target="_blank" href="#"><img height="25" alt="git logo" title="git" src="https://img.shields.io/badge/git-282C34?&logo=git"></img></a>
@@ -70,7 +71,6 @@ I’m interested in server administration + design and development of applicatio
 ## 👀 Want to learn at some time
 
 <a target="_blank" href="#"><img height="25" alt="Nginx logo" title="Nginx" src="https://img.shields.io/badge/Nginx-282C34?&logo=nginx"></img></a>
-<a target="_blank" href="#"><img height="25" alt="Traefik Proxy logo" title="Traefik Proxy" src="https://img.shields.io/badge/Traefik-282C34?&logo=traefikproxy"></img></a>
 <a target="_blank" href="#"><img height="25" alt="D3.js logo" title="D3.js" src="https://img.shields.io/badge/D3.js-282C34?&logo=d3dotjs"></img></a>
 <a target="_blank" href="#"><img height="25" alt="LibGDX logo" title="LibGDX" src="https://img.shields.io/badge/LibGDX-282C34?&logo=libgdx"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Python logo" title="Python" src="https://img.shields.io/badge/Python-282C34?&logo=python"></img></a>
