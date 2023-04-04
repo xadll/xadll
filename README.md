@@ -61,10 +61,11 @@ I’m interested in server administration + design and development of applicatio
 ## 🌱 Curently learning
 
 <a target="_blank" href="#"><img height="25" alt="Apache NetBeans Platform" title="Apache NetBeans Platform" src="https://img.shields.io/badge/Apache NetBeans Platform-282C34?&logo=apachenetbeanside"></img></a>
-<a target="_blank" href="#"><img height="25" alt="Apache Camel" title="Apache Camel" src="https://img.shields.io/badge/Apache Camel-282C34?&logo=apachecamel"></img></a>
+<a target="_blank" href="#"><img height="25" alt="Docker logo" title="Docker" src="https://img.shields.io/badge/Docker-282C34?&logo=docker"></img></a>
+<a target="_blank" href="#"><img height="25" alt="Ansible logo" title="Ansible" src="https://img.shields.io/badge/Ansible-282C34?&logo=ansible"></img></a>
+<a target="_blank" href="#"><img height="25" alt="Cloud-init logo" title="Cloud-init" src="https://img.shields.io/badge/Cloud&minus;init-282C34?&logo=cloudinit"></img></a>
 <a target="_blank" href="#"><img height="25" alt="git logo" title="git" src="https://img.shields.io/badge/git-282C34?&logo=git"></img></a>
 <a target="_blank" href="#"><img height="25" alt="GitHub logo" title="GitHub" src="https://img.shields.io/badge/GitHub-282C34?&logo=github"></img></a>
-<a target="_blank" href="#"><img height="25" alt="Docker logo" title="Docker" src="https://img.shields.io/badge/Docker-282C34?&logo=docker"></img></a>
 
 ## 👀 Want to learn at some time
 
@@ -98,6 +99,8 @@ https://yaytext.com/bold-italic/
 gamedeveloper, gameandwatch, GeeksforGeeks,
 Gradle, HTML5, itchdotio, Jenkins, JSON, Kdenlive, Khan Academy, letsencrypt, lubuntu, opengl, pihole, portainer, 
 , pytorch,
+
+<a target="_blank" href="#"><img height="25" alt="Apache Camel" title="Apache Camel" src="https://img.shields.io/badge/Apache Camel-282C34?&logo=apachecamel"></img></a>
 
 redmine, soundcloud, spotify, sqlite, torbrowser, ubuntu, udemy, virtualbox, vimeo, xmpp 
 
