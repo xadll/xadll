@@ -33,7 +33,7 @@ I’m interested in server administration + design and development of applicatio
   <a target="_blank" href="#"><img height="25" alt="CSS3 logo" title="CSS3" src="https://img.shields.io/badge/CSS3-282C34?&logo=css3"></img></a>
 </details>
 
-## :hammer: Tools:
+## :hammer: Toolbox:
 
 <a target="_blank" href="#"><img height="25" alt="Apache NetBeans IDE logo" title="Apache NetBeans IDE" src="https://img.shields.io/badge/Apache NetBeans IDE-282C34?&logo=apachenetbeanside"></img></a>
 <a target="_blank" href="#"><img height="25" alt="NetBeans Platform" title="NetBeans Platform" src="https://img.shields.io/badge/NetBeans Platform-282C34?&logo=apachenetbeanside"></img></a>
