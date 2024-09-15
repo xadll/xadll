@@ -85,6 +85,7 @@ I’m interested in server administration + design and development of applicatio
 
 ## 👀 Want to learn at some time
 
+<a target="_blank" href="#"><img height="25" alt="C ZFS" title="ZFS" src="https://img.shields.io/badge/ZFS-282C34?&logo=zfs"></img></a>
 <a target="_blank" href="#"><img height="25" alt="C logo" title="C" src="https://img.shields.io/badge/C-282C34?&logo=c"></img></a>
 <a target="_blank" href="#"><img height="25" alt="C3 logo" title="C3" src="https://img.shields.io/badge/C3-282C34?&logo=c3"></img></a>
 <a target="_blank" href="#"><img height="25" alt="raylib logo" title="raylib" src="https://img.shields.io/badge/raylib-282C34?&logo=raylib"></img></a>
