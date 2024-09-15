@@ -38,10 +38,6 @@ I’m interested in server administration + design and development of applicatio
 <a target="_blank" href="#"><img height="25" alt="GNU/Linux logo" title="GNU/Linux" src="https://img.shields.io/badge/GNU/Linux-282C34?&logo=linux"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Debian logo" title="Debian" src="https://img.shields.io/badge/Debian-282C34?&logo=debian"></img></a>
 <br>
-<a target="_blank" href="#"><img height="25" alt="PostgreSQL logo" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-282C34?&logo=postgresql"></img></a>
-<a target="_blank" href="#"><img height="25" alt="MariaDB logo" title="MariaDB" src="https://img.shields.io/badge/MariaDB-282C34?&logo=mariadb"></img></a>
-<a target="_blank" href="#"><img height="25" alt="Adminer logo" title="Adminer" src="https://img.shields.io/badge/Adminer-282C34?&logo=adminer"></img></a>
-<br>
 <a target="_blank" href="#"><img height="25" alt="Markdown logo" title="Markdown" src="https://img.shields.io/badge/Markdown-282C34?&logo=markdown"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Logseq logo" title="Logseq" src="https://img.shields.io/badge/Logseq-282C34?&logo=logseq"></img></a>
 <a target="_blank" href="#"><img height="25" alt="GIMP logo" title="GIMP" src="https://img.shields.io/badge/GIMP-282C34?&logo=gimp"></img></a>
@@ -52,6 +48,12 @@ I’m interested in server administration + design and development of applicatio
 <details>
   <summary>…</summary>
   Other:<br>
+  <a target="_blank" href="#"><img height="25" alt="Subversion logo" title="Subversion" src="https://img.shields.io/badge/Subversion-282C34?&logo=subversion"></img></a>
+  <br>
+  <a target="_blank" href="#"><img height="25" alt="PostgreSQL logo" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-282C34?&logo=postgresql"></img></a>
+  <a target="_blank" href="#"><img height="25" alt="MariaDB logo" title="MariaDB" src="https://img.shields.io/badge/MariaDB-282C34?&logo=mariadb"></img></a>
+  <a target="_blank" href="#"><img height="25" alt="Adminer logo" title="Adminer" src="https://img.shields.io/badge/Adminer-282C34?&logo=adminer"></img></a>
+  <br>
   <a target="_blank" href="#"><img height="25" alt="CloudFlare logo" title="CloudFlare" src="https://img.shields.io/badge/CloudFlare-282C34?&logo=cloudflare"></img></a>
   <a target="_blank" href="#"><img height="25" alt="LetsEncrypt logo" title="LetsEncrypt" src="https://img.shields.io/badge/LetsEncrypt-282C34?&logo=letsencrypt"></img></a>
   <br>
@@ -67,25 +69,33 @@ I’m interested in server administration + design and development of applicatio
 
 ## 🌱 Curently learning
 
-<a target="_blank" href="#"><img height="25" alt="Apache NetBeans Platform" title="Apache NetBeans Platform" src="https://img.shields.io/badge/Apache NetBeans Platform-282C34?&logo=apachenetbeanside"></img></a>
-<a target="_blank" href="#"><img height="25" alt="Docker logo" title="Docker" src="https://img.shields.io/badge/Docker-282C34?&logo=docker"></img></a>
-<a target="_blank" href="#"><img height="25" alt="Traefik Proxy logo" title="Traefik Proxy" src="https://img.shields.io/badge/Traefik-282C34?&logo=traefikproxy"></img></a>
+<a target="_blank" href="#"><img height="25" alt="Proxmox VE logo" title="Proxmox VE" src="https://img.shields.io/badge/Proxmox VE-282C34?&logo=proxmox"></img></a>
 <a target="_blank" href="#"><img height="25" alt="Ansible logo" title="Ansible" src="https://img.shields.io/badge/Ansible-282C34?&logo=ansible"></img></a>
-<a target="_blank" href="#"><img height="25" alt="git logo" title="git" src="https://img.shields.io/badge/git-282C34?&logo=git"></img></a>
-<a target="_blank" href="#"><img height="25" alt="GitHub logo" title="GitHub" src="https://img.shields.io/badge/GitHub-282C34?&logo=github"></img></a>
+<a target="_blank" href="#"><img height="25" alt="Godot Engine logo" title="Godot Engine" src="https://img.shields.io/badge/Godot-282C34?&logo=godotengine"></img></a>
+<a target="_blank" href="#"><img height="25" alt="Apache NetBeans Platform" title="Apache NetBeans Platform" src="https://img.shields.io/badge/Apache NetBeans Platform-282C34?&logo=apachenetbeanside"></img></a>
+
+<details>
+  <summary>…</summary>
+  Other:<br>
+  <a target="_blank" href="#"><img height="25" alt="git logo" title="git" src="https://img.shields.io/badge/git-282C34?&logo=git"></img></a>
+  <a target="_blank" href="#"><img height="25" alt="GitHub logo" title="GitHub" src="https://img.shields.io/badge/GitHub-282C34?&logo=github"></img></a>
+  <a target="_blank" href="#"><img height="25" alt="Traefik Proxy logo" title="Traefik Proxy" src="https://img.shields.io/badge/Traefik-282C34?&logo=traefikproxy"></img></a>
+  <a target="_blank" href="#"><img height="25" alt="Docker logo" title="Docker" src="https://img.shields.io/badge/Docker-282C34?&logo=docker"></img></a>
+</details>
 
 ## 👀 Want to learn at some time
 
 <a target="_blank" href="#"><img height="25" alt="C logo" title="C" src="https://img.shields.io/badge/C-282C34?&logo=c"></img></a>
+<a target="_blank" href="#"><img height="25" alt="C3 logo" title="C3" src="https://img.shields.io/badge/C3-282C34?&logo=c3"></img></a>
 <a target="_blank" href="#"><img height="25" alt="raylib logo" title="raylib" src="https://img.shields.io/badge/raylib-282C34?&logo=raylib"></img></a>
-<a target="_blank" href="#"><img height="25" alt="Nginx logo" title="Nginx" src="https://img.shields.io/badge/Nginx-282C34?&logo=nginx"></img></a>
-<a target="_blank" href="#"><img height="25" alt="D3.js logo" title="D3.js" src="https://img.shields.io/badge/D3.js-282C34?&logo=d3dotjs"></img></a>
 
 <details>
   <summary>…</summary>
   Other:<br>
   <a target="_blank" href="#"><img height="25" alt="LibGDX logo" title="LibGDX" src="https://img.shields.io/badge/LibGDX-282C34?&logo=libgdx"></img></a>
   <a target="_blank" href="#"><img height="25" alt="Python logo" title="Python" src="https://img.shields.io/badge/Python-282C34?&logo=python"></img></a>
+  <a target="_blank" href="#"><img height="25" alt="Nginx logo" title="Nginx" src="https://img.shields.io/badge/Nginx-282C34?&logo=nginx"></img></a>
+  <a target="_blank" href="#"><img height="25" alt="D3.js logo" title="D3.js" src="https://img.shields.io/badge/D3.js-282C34?&logo=d3dotjs"></img></a>
   <a target="_blank" href="#"><img height="25" alt="Cloud-init logo" title="Cloud-init" src="https://img.shields.io/badge/Cloud&minus;init-282C34?&logo=cloudinit"></img></a>
   <a target="_blank" href="#"><img height="25" alt="Inkscape logo" title="Inkscape" src="https://img.shields.io/badge/Inkscape-282C34?&logo=inkscape"></img></a>
   <a target="_blank" href="#"><img height="25" alt="Blender logo" title="Blender" src="https://img.shields.io/badge/Blender-282C34?&logo=blender"></img></a>
