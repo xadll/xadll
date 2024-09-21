@@ -48,6 +48,8 @@ I’m interested in server administration + design and development of applicatio
 <details>
   <summary>…</summary>
   Other:<br>
+  <a target="_blank" href="#"><img height="25" alt="VirtualBox logo" title="VirtualBox" src="https://img.shields.io/badge/VirtualBox-282C34?&logo=virtualbox"></img></a>
+  <br>
   <a target="_blank" href="#"><img height="25" alt="Subversion logo" title="Subversion" src="https://img.shields.io/badge/Subversion-282C34?&logo=subversion"></img></a>
   <br>
   <a target="_blank" href="#"><img height="25" alt="PostgreSQL logo" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-282C34?&logo=postgresql"></img></a>
